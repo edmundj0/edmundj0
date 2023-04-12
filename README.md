@@ -1,7 +1,7 @@
 # Hi there, my name is Edmund 👋
 
 
-- 🎓 I recently graduated from App Academy's Software Engineering Immersive Program
+- 🎓 Graduated from App Academy's Software Engineering Immersive Program in 2023
 - 🔭 Currently working on binance.me, SmartSplit, and CareBnb
 - 🌱 My primary tech stack: JavaScript, Python, React/Redux, Flask, Express.js, SQLAlchemy, Sequelize, PostgreSQL, Mongo
 - 🔬 Background in molecular biology and the life sciences (B.A. in Molecular and Cell Biology from UC Berkeley, go bears! 🐻)
