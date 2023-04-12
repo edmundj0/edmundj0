@@ -8,4 +8,4 @@
 - 📬 Contact: edmundju0@gmail.com
 
 # You are visitor number...
-![Visitor Count] (https://profile-counter.glitch.me/edmundj0/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/edmundj0/count.svg)
