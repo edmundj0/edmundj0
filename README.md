@@ -1,4 +1,4 @@
-### Hi there, my name is Edmund 👋
+# Hi there, my name is Edmund 👋
 
 
 - 🎓 I recently graduated from App Academy's Software Engineering Immersive Program
@@ -7,5 +7,5 @@
 - 🔬 Background in molecular biology and the life sciences
 - 📬 Contact: edmundju0@gmail.com
 
-# You are visitor number...
+### You are visitor number...
 ![Visitor Count](https://profile-counter.glitch.me/edmundj0/count.svg)
