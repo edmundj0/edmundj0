@@ -11,3 +11,6 @@
 
 ### You are visitor number...
 ![Visitor Count](https://profile-counter.glitch.me/edmundj0/count.svg)
+
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=edmundj0&show_icons=true&theme=dark)
